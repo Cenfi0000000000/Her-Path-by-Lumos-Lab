@@ -6,11 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/01_Scene/trackerless.unity
-    guid: 04faa1d5fb146ae47a808c5816a276e1
-  - enabled: 0
-    path: Assets/01_Scene/image_tracker.unity
-    guid: b1e6d10f41bcf574caa7537576b9e2d7
+    path: Assets/01_Scene/Stage_demo.unity
+    guid: 35b79068a0e7e4d4bbfd01dccc5bf0cf
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 15185c175e574a44a8c828d7d4e02c36, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a31042b55a53cb447ab073f239410b8f, type: 2}

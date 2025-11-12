@@ -1,0 +1,3 @@
+C:\UNITY projects\AVR class 2025\LumosLab\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\UNITY projects\AVR class 2025\LumosLab\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
+C:\UNITY projects\AVR class 2025\LumosLab\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

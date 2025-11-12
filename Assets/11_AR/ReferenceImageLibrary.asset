@@ -21,19 +21,9 @@ MonoBehaviour:
       m_GuidLow: 5756263154017831682
       m_GuidHigh: 6206630309542434450
     m_SerializedTextureGuid:
-      m_GuidLow: 7486110570852835106
-      m_GuidHigh: 15492689781280675883
-    m_Size: {x: 0.05, y: 0.05}
+      m_GuidLow: 5824464343279567744
+      m_GuidHigh: 12133053462655135914
+    m_Size: {x: 0.13521127, y: 0.2}
     m_SpecifySize: 1
-    m_Name: 123
-    m_Texture: {fileID: 0}
-  - m_SerializedGuid:
-      m_GuidLow: 4985494474029092747
-      m_GuidHigh: 419861613426955455
-    m_SerializedTextureGuid:
-      m_GuidLow: 16475374561102229625
-      m_GuidHigh: 591591842523604729
-    m_Size: {x: 0.05, y: 0.036486488}
-    m_SpecifySize: 1
-    m_Name: Generated Image October 13, 2025 - 8_11PM
+    m_Name: test_image
     m_Texture: {fileID: 0}
