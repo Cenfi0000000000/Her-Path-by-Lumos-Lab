@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01_Scene/Intro.unity
+    guid: 8ba33251aa0f29f448af754447947787
+  - enabled: 1
+    path: Assets/01_Scene/Main Menu.unity
+    guid: ab7afd4b546d10049aa199d89d0e47a9
+  - enabled: 1
+    path: Assets/01_Scene/Twisting House.unity
+    guid: 27df376a84e559444bce01200684971e
+  - enabled: 1
+    path: Assets/01_Scene/Bus Stop.unity
+    guid: b754c6838fec5264d97c80dcd63fdbc2
+  - enabled: 1
+    path: Assets/01_Scene/Parking Lot.unity
+    guid: 3e694628dece35642a971ebf2dcee090
+  - enabled: 1
+    path: Assets/01_Scene/Elevator.unity
+    guid: 56b3ff5f1cc0daf43abd0def9f078e91
+  - enabled: 1
+    path: Assets/01_Scene/Dreamscape.unity
+    guid: 8f5a994880da07c4787c3c2eef2b3ff1
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 15185c175e574a44a8c828d7d4e02c36, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a31042b55a53cb447ab073f239410b8f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 60514da8175a0f44fb996fbc63d0b20d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5ef50b791323e60449d9ba410a741919, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 833f9980424fe2849b4cbcecdda89400, type: 2}
+  m_UseUCBPForAssetBundles: 0
